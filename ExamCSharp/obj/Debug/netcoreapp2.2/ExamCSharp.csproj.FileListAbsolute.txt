@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.2\ExamCSharp.deps.json
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.2\ExamCSharp.runtimeconfig.json
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.2\ExamCSharp.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.2\ExamCSharp.dll
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\bin\Debug\netcoreapp2.2\ExamCSharp.pdb
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.2\ExamCSharp.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.2\ExamCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.2\ExamCSharp.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.2\ExamCSharp.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.2\ExamCSharp.dll
+C:\Users\User\RiderProjects\ExamCSharp\ExamCSharp\obj\Debug\netcoreapp2.2\ExamCSharp.pdb
